@@ -86,7 +86,6 @@ Model(s) Used:
 
 1. Clone the repository
 
-git clone <repository-link>
 
 2.Install dependencies
 pip install -r requirements.txt
