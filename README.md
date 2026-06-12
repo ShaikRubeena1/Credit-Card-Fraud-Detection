@@ -85,7 +85,7 @@ Model(s) Used:
 ## 🚀 How to Run the Project
 
 1. Clone the repository
-
+https://github.com/ShaikRubeena1/Credit-Card-Fraud-Detection
 
 2.Install dependencies
 pip install -r requirements.txt
